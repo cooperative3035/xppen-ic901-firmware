@@ -1,10 +1,12 @@
 The files were dumped using [`NiceAesth/xppen-tools-builds`](https://github.com/NiceAesth/xppen-tools-builds) from Deco mini7.
 
-```
-Runtime device: 6 inch PenTablet [28BD:0928]
-Identity: manufacturer=UGTABLET serial=000000
-Firmware: UG901_BPU0605L_A (23-08-02_Release01)
-```
+| Property | Value |
+|---|---|
+| Runtime device | 6 inch PenTablet [28BD:0928] |
+| Manufacturer | UGTABLET |
+| Serial | 000000 |
+| Firmware | UG901_BPU0605L_A (23-08-02_Release01) |
+
 ### **How to flash:**
 1. Connect the tablet
 2. `xppen-tools dfu`
