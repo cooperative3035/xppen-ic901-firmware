@@ -1,2 +1,1 @@
-# xppen-ic901-dump
-Stock firmware dumped from an XP-Pen Deco Mini7 tablet
+The files were dumped using `NiceAesth/xppen-tools-builds`.
